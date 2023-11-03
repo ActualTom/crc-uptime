@@ -15,7 +15,9 @@
     "timeWeek": 270,
     "timeMonth": 280,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "Performance Portal",
