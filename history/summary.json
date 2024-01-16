@@ -22,19 +22,19 @@
     "url": "https://certification.cloudrangecyber.com",
     "icon": "https://icons.duckduckgo.com/ip3/certification.cloudrangecyber.com.ico",
     "slug": "performance-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 802,
-    "timeWeek": 388,
-    "timeMonth": 324,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 362,
+    "timeDay": 2972,
+    "timeWeek": 982,
+    "timeMonth": 475,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 16
     }
   },
   {
