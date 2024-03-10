@@ -30,7 +30,7 @@
     "uptimeYear": "99.99%",
     "time": 333,
     "timeDay": 152,
-    "timeWeek": 265,
+    "timeWeek": 229,
     "timeMonth": 262,
     "timeYear": 333,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
     "url": "https://range.cloudrangecyber.com",
     "icon": "https://icons.duckduckgo.com/ip3/range.cloudrangecyber.com.ico",
     "slug": "range-access-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 137,
     "timeMonth": 145,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   },
   {
     "name": "Test Broken Site",
