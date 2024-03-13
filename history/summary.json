@@ -4,19 +4,19 @@
     "url": "https://www.cloudrangecyber.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudrangecyber.com.ico",
     "slug": "cloud-range-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 481,
-    "timeWeek": 339,
-    "timeMonth": 341,
-    "timeYear": 452,
+    "time": 450,
+    "timeDay": 348,
+    "timeWeek": 323,
+    "timeMonth": 337,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-03-13": 0
+      "2024-03-13": 7
     }
   },
   {
