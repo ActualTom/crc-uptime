@@ -4,7 +4,7 @@
     "url": "https://www.cloudrangecyber.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudrangecyber.com.ico",
     "slug": "cloud-range-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 339,
     "timeMonth": 341,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-13": 0
+    }
   },
   {
     "name": "Performance Portal",
